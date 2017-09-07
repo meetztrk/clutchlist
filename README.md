@@ -11,3 +11,6 @@ You can call *addItem* or *insertItem* for add an item.<br/>
 `addItem(clutchList*, &item);`<br/><br/>
 *insertItem* functions need more parameter, it is index, the second function parameter should be index.
 `insertItem(clutchList*, int index, &item);`
+
+## Manage your LinkedList
+Do not try to write functions again and again for each LinkedList.Create custom struct 
