@@ -1,6 +1,6 @@
 /*
-*   author  mert ozturk  07.09.2017
-*/
+ *   author  mert ozturk <mrtztrk1@gmail.com> 07.09.2017
+ */
 
 #include<stdlib.h> //malloc//
 #include<string.h> //strcmp//
